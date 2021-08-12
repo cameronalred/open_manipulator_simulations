@@ -13,3 +13,16 @@ joint3_position:
 joint4_position:
   type: position_controllers/JointPositionController
   joint: joint4
+
+joint5_position:
+  type: position_controllers/JointPositionController
+  joint: joint5
+
+joint6_position:
+  type: position_controllers/JointPositionController
+  joint: joint6
+
+joint7_position:
+  type: position_controllers/JointPositionController
+  joint: joint7
+
